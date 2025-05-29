@@ -53,7 +53,7 @@ If you found it helpful, don’t forget to **star** the repo!
 ```bash
 git clone https://github.com/Ulugbek999/Username-comparison-tool.git
 cd Username-comparison-tool
-2. Install the zip archive with the file, and follow the installation requirements and steps listed in the User's manual.docs
+2. Install the zip archive with the file, and follow the installation requirements and steps listed in the User's manual.docx
 
 python compare_usernames.py
 Modify the script paths to match your CSV/text files.
@@ -63,6 +63,7 @@ Modify the script paths to match your CSV/text files.
 
 ##📂 File Structure
 
+```text
 Username-comparison-tool/
 ├── build/
 │ └── pythonscript/
@@ -72,7 +73,7 @@ Username-comparison-tool/
 ├── pythonscript.spec # PyInstaller config (if used for creating .exe)
 ├── .gitattributes
 └── README.md
-
+```
 ---
 🙌 Author
 Bek (Ulugbek999)
